@@ -1,0 +1,18 @@
+.row{
+    width: 500px;
+    height: 300px;
+    border: cyan solid;
+    background-color: darkblue;
+    position: absolute;
+}
+.col{
+    width: 100px;
+    height: 200px;
+    border: darkolivegreen solid;
+    float: left;
+    background-color: deeppink;
+}
+.h{
+    position:re;
+    left: 1%;
+}

@@ -1,0 +1,24 @@
+.name{
+    margin-top: -140px;
+    text-align: end;
+    font-size: 76px;
+    margin-left: 67px;
+    font-family: 'Archivo Black', sans-serif;
+    
+}
+.img-thumbnail {
+
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    max-width: 30%;
+    height: 190px;
+    margin-left: -122px;
+}
+.head{
+    background-image: url(./images/gettyimages-1305820223-640x640.jpg);
+    display: ;
+}
+.container{
+    width: 60%;
+}

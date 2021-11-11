@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    color: rgb(139, 0, 132);
+}
+p{
+    color: black;
+}
+h2{
+    color: darkmagenta;
+}
+u1{
+    color: red;
+}
+ol{
+    color: red;
+}
+table{
+    color: black;
+}
+th{
+    color: black;
+}
+td{
+    color: blue;
+}

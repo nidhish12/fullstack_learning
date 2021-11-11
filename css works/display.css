@@ -1,0 +1,34 @@
+.row{
+    border: solid black 1px;
+    background-color: cadetblue;
+    height: 300px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    /* justify-content */
+    /* /space-evenly: evenly spaced in between */
+    /*  space-between */
+    /* flex-end */
+    /* flex-start */
+    align-items: center;
+
+}
+.col{
+    height: 100px;
+    width: 100px;
+    border: black solid 1px;
+
+}
+.col1{
+    background-color:rgb(17, 17, 34);
+
+}
+.col2{
+    background-color: green;
+}
+.col3{
+    background-color: red;
+}
+.col4{
+    background-color: pink;
+}

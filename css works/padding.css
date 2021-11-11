@@ -1,0 +1,13 @@
+div{
+    border: solid black;
+    width: 200px;
+    padding: 50px;
+    /* padding -left,right ,top,bottom */
+}
+.h{
+    margin-top: 100px;
+}
+
+div p{
+    color: blueviolet;
+}

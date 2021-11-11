@@ -1,0 +1,24 @@
+.i{
+    border: indianred solid 1px;
+    background-color: orangered;
+    height: 100px;
+    width: 100px;
+    position:sticky;
+    top: 0;
+    
+    /* left: 200px; */
+    /* top: 300px; */
+
+}
+body{
+    /* background-color: yellowgreen; */
+    height: 2000px;
+    background-image: url(./lion-Kenya-Masai-Mara-National-Reserve.jpg);
+    background-size: cover;
+}
+.h{
+    background-color: darkorange;
+    width:700px;
+    height: 100px;
+
+}

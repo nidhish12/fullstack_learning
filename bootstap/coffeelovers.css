@@ -1,0 +1,112 @@
+/* NAVBAR STYLING STARTS */
+body{
+    background-image: url(./images/cofee\ bg.jpg);
+    color: rgb(247, 251, 252);
+    height: 700px;
+    width: 99%;
+}
+    /* background-size: cover; */
+    /* background-position: center; */
+.container{
+  width: 100%;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    background-color: rgb(8, 8, 8);
+    color: #fff;
+    position: sticky;
+    top: 0px;
+    height: 70px;
+
+   }
+   .nav-links a {
+    color: #fff;
+   }
+   /* LOGO */
+   .logo {
+    font-size: 32px;
+   }
+   /* NAVBAR MENU */
+   .menu {
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+    
+   }
+   .menu li:hover {
+    background-color: #4c9e9e;
+    border-radius: 5px;
+    transition: 0.3s ease;
+   }
+   .menu li {
+    padding: 5px 14px;
+    
+   }
+   /* DROPDOWN MENU */
+   .services {
+    position: relative; 
+   }
+   .dropdown {
+    background-color: rgb(1, 139, 139);
+    padding: 1em 0;
+    position: absolute; /*WITH RESPECT TO PARENT*/
+    display: none;
+    border-radius: 8px;
+    top: 35px;
+   }
+   .dropdown li + li {
+    margin-top: 10px;
+   }
+   .dropdown li {
+    padding: 0.5em 1em;
+    width: 8em;
+    text-align: center;
+   }
+   .dropdown li:hover {
+    background-color: #4c9e9e;
+   }
+   .services:hover .dropdown {
+    display: block;
+   }
+   /* bg image */
+   .h{
+       height: 700px;
+       width: 100%;
+   }
+   .menu li a{
+       text-decoration: none;
+   }
+   h1{
+       margin-right: 10px;
+       font-size: 80px;
+   }
+   .description{
+       width: 100%;
+       height: 210px;
+       border-bottom: solid cornsilk 0.5px;
+       backdrop-filter: blur(30px);
+       font-size: 20px;
+    
+   }
+   .dis{
+       width: 100%;
+       height: 210px;
+       backdrop-filter: blur(30px);
+       font-size: 20px;
+   }
+   .k{
+       height: 70px;
+       width: 100%;
+       margin-top: -10px;
+     
+   }
+   .description p{
+       text-align: center;
+   }
+   .gal{
+       font-size: 20px;
+   }

@@ -1,0 +1,18 @@
+div{
+    border: solid blueviolet;
+    width: 30%;
+    float: left;
+    height: 500px;
+}
+div img{
+    width: 100%;
+    height: 300px;
+}
+div p{
+    padding: 6px;
+}
+div button{
+    margin-left: 160px;
+    height: 50px;
+    width: 100px;
+}

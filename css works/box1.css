@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Festive&display=swap');
+h1{
+    color: #07f7c7;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Festive', cursive;
+}
+.hi{
+    color: rgb(83, 17, 189);
+}
+#tip{
+    color: rgb(75, 29, 60);
+}
+p{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Bebas Neue', cursive;
+}
+
+/* hsl: hue saturation lightness

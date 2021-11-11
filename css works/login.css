@@ -1,0 +1,23 @@
+div{
+    text-align: center;
+}
+body{
+    background-color :white;
+}
+button{
+    background-color: green;
+    
+}
+.h{
+    text-align: center;
+    border: solid black 1px;
+    height: 20px;
+    width: 1500px;
+}
+h2{
+    text-align: center;
+}
+.i{
+    text-align: center;
+    height: 300px;
+}
